@@ -1,5 +1,5 @@
 # Reference 
-[https://github.com/sakshamvedi/Sukoon.git]
+https://github.com/sakshamvedi/Sukoon.git
 
-# Thanks @sakshamvedi
-[https://github.com/sakshamvedi] 
+# Special Thanks to @sakshamvedi
+https://github.com/sakshamvedi 
